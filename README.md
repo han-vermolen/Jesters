@@ -1,4 +1,7 @@
 # Jesters
+
+> This entire repository (and thus the architecture) is a work in progress. In the upcoming weeks, we aim to finish our completec solution.
+
 Welcome to the Jesters' solution for the 2022 Fall Kata. The Kata is hosted by O'Reilly Media and has been a fixture in the architecture space for about two years.
 
 This page is your entry point to our architecture, and while you could rummage through our solution in any order you want, we highly advise you to follow the yellow brick road. It all starts right here!
