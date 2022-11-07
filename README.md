@@ -1,6 +1,6 @@
 # Jesters
 
-> This entire repository (and thus the architecture) is a work in progress. In the upcoming weeks, we aim to finish our completec solution.
+> This entire repository (and thus the architecture) is a work in progress. In the upcoming weeks, we aim to finish our solution.
 
 Welcome to the Jesters' solution for the 2022 Fall Kata. The Kata is hosted by O'Reilly Media and has been a fixture in the architecture space for about two years.
 
@@ -12,8 +12,16 @@ You can use the table of content (TOC) below to move directly to the chapter of 
 ## Problem space
 Introduces the as-is situation of the Kata and provides some of the challenges we aim to address with our architecture.
 
+### Problem mindmap
+A mindmap of all issues we aim to address. We use this mindmap to bridge the problem and solution space.
+
+
 ## Solution space
 After we have laid out the issues, we naturally move into describing the solutions to our problem statements from the previous section.
+
+### Solution projection
+We project our proposed solutions on the Problem mindmap from the previous section 
+
 
 ### ADRs
 This part contains all the Architecture Decision Records we've written to clarify our most impactful decisions.
